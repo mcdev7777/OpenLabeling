@@ -39,7 +39,6 @@ This project was developed for the following paper, please consider citing it:
 - [Prerequisites](#prerequisites)
 - [Run project](#run-project)
 - [GUI usage](#gui-usage)
-- [Authors](#authors)
 
 ## Quick start
 
@@ -138,11 +137,3 @@ Mouse:
   - **Right-click** -> **quick delete**!
   - Use the middle mouse to zoom in and out
   - Use double click to select a bounding box
-
-## Authors
-
-* **João Cartucho**
-
-    Feel free to contribute
-
-    [![GitHub contributors](https://img.shields.io/github/contributors/Cartucho/OpenLabeling.svg)](https://github.com/Cartucho/OpenLabeling/graphs/contributors)
